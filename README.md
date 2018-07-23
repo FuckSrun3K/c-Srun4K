@@ -38,6 +38,6 @@ https://github.com/hanbing0715/pySrun4k
 
 3. 将 LoginUrl、LogoutUrl 和 CheckOLUrl 中的 ip 更改为您的环境中的唯一 ip。
 
-4. 不要更改 http://或其他单词, 您只应更改 IP
+4. 不要更改 http:// 或其他单词, 您只应更改 IP
 
 5. 以后版本将合并和简化 IP 相关文本框
